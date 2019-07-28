@@ -1,0 +1,12 @@
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.2\SentimentAnalysis.deps.json
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.2\SentimentAnalysis.runtimeconfig.json
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.2\SentimentAnalysis.runtimeconfig.dev.json
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.2\SentimentAnalysis.dll
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.2\SentimentAnalysis.csprojAssemblyReference.cache
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.2\SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.2\SentimentAnalysis.AssemblyInfoInputs.cache
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.2\SentimentAnalysis.AssemblyInfo.cs
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.2\Data\yelp_labelled.txt
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.2\SentimentAnalysis.pdb
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.2\SentimentAnalysis.dll
+C:\DotnetCore\ML\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.2\SentimentAnalysis.pdb
